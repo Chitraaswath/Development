@@ -1,0 +1,2 @@
+What is JAVA?
+JAVA is a high-level, object-oriented programming language.
